@@ -18,3 +18,5 @@ This where I become a pro in leetcode
 Too Many Resources Need a roadmap.... Need to find out what i know and what i need to learn..?
 
 Day 1: Started With Basic Linux Commands from HackerRank
+
+Day 2: Did More Linux Comands ( More 61 to go)  and found [3MonthPrepList](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges) <br>
