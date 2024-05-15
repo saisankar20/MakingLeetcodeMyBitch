@@ -21,6 +21,6 @@ Day 1: Started With Basic Linux Commands from HackerRank
 
 Day 2: Did More Linux Comands ( More 61 to go)  and found [3MonthPrepList](https://www.hackerrank.com/interview/preparation-kits/three-month-preparation-kit/three-month-week-one/challenges) <br>
 
-Day 3? : So it's 05/15/2024  I Have exactly 103 days till my Fall Semester Starts. I guess from today I need to take it a bit seriously!!!
-        Goal: Learn All concepts in Neetcode Roadmap and Ability  to Solve Blind75
-        Will Try to Dedicate atleast 1 hour every day to make this Happen.
+Day 3? : So it's 05/15/2024  I Have exactly 103 days till my Fall Semester Starts. I guess from today I need to take it a bit seriously!!! <br>
+        Goal: Learn All concepts in Neetcode Roadmap and Ability  to Solve Blind75 <br>
+        Will Try to Dedicate atleast 1 hour every day to make this Happen. <br>
