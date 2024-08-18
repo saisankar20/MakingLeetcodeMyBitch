@@ -30,4 +30,5 @@ Day 3? : So it's 05/15/2024  I Have exactly 103 days till my Fall Semester Start
 Leetcode is bascially indentifying what algorithm is required in problem. <br>
 Day 4: Got Neetcode Pro and gonna follow the roadmap implemented 217.
 
+https://www.firsttimersonly.com/
 
