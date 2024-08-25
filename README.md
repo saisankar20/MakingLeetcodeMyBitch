@@ -32,3 +32,4 @@ Day 4: Got Neetcode Pro and gonna follow the roadmap implemented 217.
 
 https://www.firsttimersonly.com/
 
+Day 1: Understanding Time complexity [Cheetseet](https://www.bigocheatsheet.com/) [Plain English](https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation)
