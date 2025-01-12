@@ -4,5 +4,6 @@ class Solution:
        if s == -1:
         return word
        else:
-        word = word[s::-1] + word[s+1:]
-        return word
+        result = word[s::-1] + word[s+1:]
+        return result
+
