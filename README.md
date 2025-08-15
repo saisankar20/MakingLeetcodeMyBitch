@@ -15,7 +15,7 @@ This where I become a pro in leetcode
 12.[HackerRank DS](https://www.hackerrank.com/domains/data-structures) <br>
 13.[Striver](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) <br>
 14.[Tracker](https://gist.github.com/sb23w/942ba3a45be88beed13e2e9a75ed8f1a) <br>
-15.[NP,NP-hard](https://stackoverflow.com/questions/1857244/what-are-the-differences-between-np-np-complete-and-np-hard)
+15.[NP,NP-hard](https://stackoverflow.com/questions/1857244/what-are-the-differences-between-np-np-complete-and-np-hard) <br>
 16.[flowchart](https://algo.monster/flowchart)
 
 Too Many Resources Need a roadmap.... Need to find out what i know and what i need to learn..?
